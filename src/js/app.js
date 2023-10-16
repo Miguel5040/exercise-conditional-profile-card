@@ -21,6 +21,7 @@ import "../style/index.css";
         role: null,
         country: null,
         city: null
+        
     }
  */
 function render(variables = {}) {
